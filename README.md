@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [ci/cd](https://github.com/jennerdulce/server-deployment-practice/actions) (GitHub Actions)
-- [Pull Request](https://github.com/jennerdulce/api-server/pull/1)
+- [Pull Request](https://github.com/jennerdulce/server-deployment-practice/pull/3)
 - [HEROKU App](https://jennerdulce-server-deploy-dev.herokuapp.com/)
 
 ### Setup
