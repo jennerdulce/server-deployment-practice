@@ -1,5 +1,33 @@
-# server-deployment-practice
-401 Lab-01: Node Ecosystem, CI, CD. Server Deployment Practice
-- [HEROKU APP](https://jennerdulce-server-deploy-dev.herokuapp.com/)
-- [GITHUB ACTIONS](https://github.com/jennerdulce/server-deployment-practice/actions)
-- [PULL REQUEST](https://github.com/jennerdulce/server-deployment-practice/pull/1)
+# LAB - Node Ecosystem, CI, CD
+
+## Project: Server Deployment Practice
+
+### Author: Jenner Dulce
+
+### Links and Resources
+
+- [ci/cd](https://github.com/jennerdulce/server-deployment-practice/actions) (GitHub Actions)
+- [Pull Request](https://github.com/jennerdulce/api-server/pull/1)
+- [HEROKU App](https://jennerdulce-server-deploy-dev.herokuapp.com/)
+
+### Setup
+
+#### `.env` requirements (where applicable)
+
+- `PORT` - 3000
+
+#### How to initialize/run your application (where applicable)
+
+- `nodemon`
+- `node index.js`
+- `npm start`
+
+#### How to use your library (where applicable)
+
+#### Tests
+
+- no testing for this lab
+
+#### UML
+
+![UML Example](./UML.png);
